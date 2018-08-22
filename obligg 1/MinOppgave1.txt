@@ -1,0 +1,1 @@
+Lag en quiz ved hjelp av for løkker og if statements. Programmet skal gi brukeren svar på hvor mange poeng de fikk.

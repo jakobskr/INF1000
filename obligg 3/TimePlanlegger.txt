@@ -1,0 +1,6 @@
+a) den sjekker om, 12 er mindre eller lik 11, noe den ikke er. Så sjekker den om 13 er mindre eller lik 10 noe den ikke er.
+  siden if statementen ikke ble oppfylt så skriver den ut "Forelesningene overlapper"
+
+b) den sjekker om, 11 er mindre eller lik 12, noe den er. og siden den første delen av if statementen ble oppfylt så skriver programmet ut " forelesningene overlapper ikke"
+
+c) eventuelt andre forlesninger/avtaler på samme dag. siden det er fint å vite om ting kræsjer.

@@ -1,0 +1,1 @@
+lag et program hvor brukeren taster inn en tall array, og så sorterer du og printer ut den sorterte arrayen.

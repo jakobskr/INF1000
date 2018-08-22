@@ -1,0 +1,1 @@
+Lag et program med hjelp av metoder med parametre, som kjører helt til brukeren taster inn tallet 3.

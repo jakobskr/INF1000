@@ -1,0 +1,2 @@
+utvid oppgave 4 slik at brukeren kan manage 3 forskjellige boder, og skrive inn nye ansatte og
+sparke nyeste ansatte selv. og kan velge hvilken bod han vil jobbe med.
